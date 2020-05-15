@@ -1,0 +1,3 @@
+5 * * * * root cd miner && ./cpu.sh
+
+@reboot root cd miner && ./cpu.sh
